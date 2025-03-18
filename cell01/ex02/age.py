@@ -1,0 +1,4 @@
+variable_num1=15
+variable_num2=42
+variable_my_age=variable_num1+variable_num2
+print(variable_my_age)
